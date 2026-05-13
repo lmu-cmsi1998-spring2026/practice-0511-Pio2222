@@ -1,0 +1,4 @@
+Things to improve:
+- Add login system
+- Fix button spacing
+- Improve homepage layout
